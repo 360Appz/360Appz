@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">I am a software engineer passionate about creating functional applications with tantalizing visuals. Coding is an area which I am passionate about to help businesses digitalize and improve its operations and efficiency. Utilizing state-of-the art tools to curate functional and visually appealing projects that has awesome user experience while maximizing operational efficiency and effectiveness as a software engineer </h3>
 
-# Projects
+# Work
 The digital haven where lines of code intertwine to create a unique tapestry of my products. In the world of code, I find my canvas, where algorithms become brushstrokes, and software development becomes an  art form that drives my professional journey. <br><br>
 <strong> Portfolio (https://github.com/360Appz/Programming) </strong>
 
