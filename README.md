@@ -14,9 +14,9 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
 Beyond  screens and keyboards realms, my heart beats to the rhythm of another passion – music. When I'm not immersed in the intricacies of coding, you'll likely find me lost in the world of melodies, experimenting with sounds, and exploring the limitless possibilities what frequencies that can be created . From programming languages to musical notes, I am a dual-minded creator, finding inspiration in both the logical precision of code and the emotive language of music
 
 
-<p style="display:inline;" align="left"> https://hellojy.wixsite.com/ongakulabs>
-  <p>
-  Portfolio (https://hellojy.wixsite.com/ongakulabs)
+<p style="display:inline;" align="left">
+  <p><strong>
+  Portfolio (https://hellojy.wixsite.com/ongakulabs) </strong>
   </p>
   <a href="https://www.youtube.com/channel/UCsK287srSexdp3rjNBoka4Q" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCsK287srSexdp3rjNBoka4Q" height="30" width="40" />
