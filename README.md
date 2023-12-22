@@ -16,7 +16,7 @@ Beyond  screens and keyboards realms, my heart beats to the rhythm of another pa
 
 <p style="display:inline;" align="left">
   <p><strong>
-  Say Hello (https://hellojy.wixsite.com/ongakulabs) </strong>
+  Portfolio (https://hellojy.wixsite.com/ongakulabs) </strong>
   </p>
   <a href="https://www.youtube.com/channel/UCsK287srSexdp3rjNBoka4Q" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCsK287srSexdp3rjNBoka4Q" height="30" width="40" />
