@@ -3,7 +3,7 @@
 
 # Projects
 The digital haven where lines of code intertwine to create a unique tapestry of my products. In the world of code, I find my canvas, where algorithms become brushstrokes, and software development becomes an  art form that drives my professional journey. <br><br>
-Portfolio (https://github.com/360Appz/Programming)
+<strong> Portfolio (https://github.com/360Appz/Programming) </strong>
 
 # Interests
 * Music, Sound
@@ -14,8 +14,10 @@ Portfolio (https://github.com/360Appz/Programming)
 Beyond  screens and keyboards realms, my heart beats to the rhythm of another passion – music. When I'm not immersed in the intricacies of coding, you'll likely find me lost in the world of melodies, experimenting with sounds, and exploring the limitless possibilities what frequencies that can be created . From programming languages to musical notes, I am a dual-minded creator, finding inspiration in both the logical precision of code and the emotive language of music
 
 
-<p style="display:inline;" align="left"> 
+<p style="display:inline;" align="left"> https://hellojy.wixsite.com/ongakulabs>
+  <p>
   Portfolio (https://hellojy.wixsite.com/ongakulabs)
+  </p>
   <a href="https://www.youtube.com/channel/UCsK287srSexdp3rjNBoka4Q" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCsK287srSexdp3rjNBoka4Q" height="30" width="40" />
   </a>
