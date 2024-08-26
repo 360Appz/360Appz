@@ -8,7 +8,8 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
 - Backend (Java, Spring Boot) 
 
 
-### <strong> Others (https://github.com/360Appz/Programming) </strong>
+### <strong> Others </strong>
+- (https://github.com/360Appz/Programming)
 
 
 
