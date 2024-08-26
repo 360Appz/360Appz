@@ -3,12 +3,14 @@
 
 # Work
 The digital haven where lines of code intertwine to create a unique tapestry of my products. In the world of code, I find my canvas, where algorithms become brushstrokes, and software development becomes an  art form that drives my professional journey. <br><br>
-<strong> Portfolio (https://github.com/360Appz/Programming) </strong>
+### <strong> To Do List </strong>
+- Frontend (React, Next. Js) - https://github.com/360Appz/todolist-react/tree/release
+- Backend (Java, Spring Boot) 
 
-# Interests
-* Music, Sound
-* Outdoors ( Swimming, Cycling, Weights)
-* Movies
+
+### <strong> Others (https://github.com/360Appz/Programming) </strong>
+
+
 
 # Expressions
 Beyond  screens and keyboards realms, my heart beats to the rhythm of another passion – music. When I'm not immersed in the intricacies of coding, you'll likely find me lost in the world of melodies, experimenting with sounds, and exploring the limitless possibilities what frequencies that can be created . From programming languages to musical notes, I am a dual-minded creator, finding inspiration in both the logical precision of code and the emotive language of music
