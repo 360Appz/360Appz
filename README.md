@@ -12,7 +12,7 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
 - (https://github.com/360Appz/Programming)
 
 
-
+<br/>
 
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
@@ -51,6 +51,7 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
 
 </a> </p>
 
+<br/>
 
 # Interests
 Beyond  screens and keyboards realms, my heart beats to the rhythm of another passion – music. When I'm not immersed in the intricacies of coding, you'll likely find me lost in the world of melodies, experimenting with sounds, and exploring the limitless possibilities what frequencies that can be created . From programming languages to musical notes, I am a dual-minded creator, finding inspiration in both the logical precision of code and the emotive language of music
@@ -75,7 +76,7 @@ Beyond  screens and keyboards realms, my heart beats to the rhythm of another pa
 
 </p>
 
-
+<br/>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left" style="display:inline;">
