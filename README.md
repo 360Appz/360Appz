@@ -4,8 +4,10 @@
 # Work
 The digital haven where lines of code intertwine to create a unique tapestry of my products. In the world of code, I find my canvas, where algorithms become brushstrokes, and software development becomes an  art form that drives my professional journey. <br><br>
 ### <strong> To Do List </strong>
-- Frontend <strong> (React, Next. Js) </strong> - https://github.com/360Appz/todolist-react/tree/release
-- Backend <strong> (Java, Spring Boot) </strong> - https://github.com/360Appz/todolist-spring-boot/tree/feature/pagination
+- Frontend <strong> (React, Next. Js) </strong>
+  - https://github.com/360Appz/todolist-react/tree/release
+- Backend <strong> (Java, Spring Boot) </strong>
+  - https://github.com/360Appz/todolist-spring-boot/tree/feature/pagination
 
 
 ### <strong> Others </strong>
