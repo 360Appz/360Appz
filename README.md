@@ -13,7 +13,10 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
 
 
 ### <strong> Others </strong>
-- (https://github.com/360Appz/Programming)
+- React Native
+ * **Tesla UI Clone** https://github.com/360Appz/TeslaClone - Uses React Native to emulate the user interface of the Tesla website.
+- Data Science & Machine Learning
+  - https://github.com/360Appz/Data-Science-Machine-Learning
 
 
 <br/>
