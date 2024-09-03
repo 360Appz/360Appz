@@ -13,9 +13,9 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
 
 
 ### <strong> Others </strong>
-- React Native (Tesla UI Clone Mockup)
+- <strong> React Native </strong> (Tesla UI Clone Mockup)
   - https://github.com/360Appz/TeslaClone
-- Data Science & Machine Learning
+- <strong> Data Science & Machine Learning </strong>
   - https://github.com/360Appz/Data-Science-Machine-Learning
 
 
