@@ -12,7 +12,7 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
   - https://github.com/360Appz/todolist-spring-boot/tree/feature/pagination
 
 ### <strong> Tesla Clone UI App Mockup </strong> 
-- Frontend <strong> React Native </strong> 
+- Frontend <strong> (React Native) </strong> 
    - https://github.com/360Appz/TeslaClone 
 
   
