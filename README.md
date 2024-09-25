@@ -13,6 +13,7 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
 
 ### <strong> Tesla Clone App Mockup </strong> 
 - <strong> React Native </strong> (Tesla UI Clone Mockup)
+ - https://github.com/360Appz/TeslaClone-   
 
   
 ### <strong> Others </strong>
