@@ -12,10 +12,16 @@ The digital haven where lines of code intertwine to create a unique tapestry of 
   - https://github.com/360Appz/todolist-spring-boot/tree/feature/pagination
 
   
-### <strong> Others </strong>
-- <strong> Python </strong>
-  - https://github.com/360Appz/python/tree/main
-
+### <strong> System Design </strong>
+To lean more about different type of system designs and what's under the hood
+- <strong> Search Engine </strong>
+  - https://gitlab.com/system-design-element-of-java/system-design-search-engine/-/tree/dev?ref_type=heads
+    
+- <strong> Recommendation System </strong>
+  - https://gitlab.com/system-design-element-of-java/system-design-recommendation-system/-/tree/dev?ref_type=heads
+ 
+- <strong> Page Rank </strong>
+  - https://gitlab.com/system-design-element-of-java/system-design-page-rank
 
 <br/>
 
