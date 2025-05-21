@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center"> Inquisitive | Self-driven </h3>br>
+<h3 align="center"> Inquisitive | Self-driven </h3> </br>
 
 Building backend systems that work and scale - it's my kind of jam. I love diving deep in creating applications that help businesses run better and thrive digitally. I get excited about architecting backend systems that that turn business challenges into elegant , secure, robust solutions  </h3>
 
 # Introduction 
-Why I love Spring Boot + Java
+<strong> Why I love Spring Boot + Java </strong>
 - https://github.com/360Appz/WhyILoveJavaSpringBoot/tree/main
 
 # Work
