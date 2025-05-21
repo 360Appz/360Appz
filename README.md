@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">I am a software engineer passionate about creating functional applications with tantalizing visuals. Coding is an area which I am passionate about to help businesses digitalize and improve its operations and efficiency. Utilizing state-of-the art tools to curate functional and visually appealing projects that has awesome user experience while maximizing operational efficiency and effectiveness as a software engineer </h3>
+<h3 align="center"> Inquisitive | Self-driven </h3>br>
+
+Building backend systems that work and scale - it's my kind of jam. I love diving deep in creating applications that help businesses run better and thrive digitally. I get excited about architecting backend systems that that turn business challenges into elegant , secure, robust solutions  </h3>
+
+# Introduction 
+Why I love Spring Boot + Java
+- https://github.com/360Appz/WhyILoveJavaSpringBoot/tree/main
 
 # Work
 The digital haven where lines of code intertwine to create a unique tapestry of my products. In the world of code, I find my canvas, where algorithms become brushstrokes, and software development becomes an  art form that drives my professional journey. <br><br>
@@ -41,18 +47,11 @@ To learn more about different type of system designs and what's under the hood. 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
-  </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
 </p>
 
 
