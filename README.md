@@ -3,10 +3,6 @@
 
 Building backend systems that work and scale - it's my kind of jam. I love diving deep in creating applications that help businesses run better and thrive digitally. I get excited about architecting backend systems that that turn business challenges into elegant , secure, and robust solutions  </h3>
 
-# Introduction 
-<strong> Why I love Spring Boot + Java :smiley: </strong>
-- https://github.com/360Appz/WhyILoveJavaSpringBoot/tree/main
-
 # Work
 The digital haven where lines of code intertwine to create a unique tapestry of my products. In the world of code, I find my canvas, where algorithms become brushstrokes, and software development becomes an  art form that drives my professional journey. <br><br>
 ### <strong> To Do List </strong> 
