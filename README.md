@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center"> Inquisitive | Self-driven </h3> </br>
 
-Building backend systems that work and scale - it's my kind of jam. I love diving deep in creating applications that help businesses run better and thrive digitally. I get excited about architecting backend systems that that turn business challenges into elegant , secure, and robust solutions  </h3>
+Business-focused professional with proven ability to translate complex business needs into actionable technical solutions. Skilled in stakeholder engagement, requirements analysis, and Agile delivery. Leverages data-driven insights to optimize processes, enhance operational efficiency, and drive measurable business value across cross-functional teams  </h3>
 
 # Work
-The digital haven where lines of code intertwine to create a unique tapestry of my products. In the world of code, I find my canvas, where algorithms become brushstrokes, and software development becomes an  art form that drives my professional journey. <br><br>
+### <strong> Business Analyst </strong> 
+-  Product Feature Analysis & Roadmap <strong> E-COMMERCE CHECKOUT FLOW OPTIMIZATION </strong>
+- https://sunset-metacarpal-a43.notion.site/E-COMMERCE-CHECKOUT-FLOW-OPTIMIZATION-295ef23c9d9b80008150fb39f0fc7292
+
+-  Data Analytics <strong> Retail Sales Optimization & Inventory Management Analysis </strong>
+- https://sunset-metacarpal-a43.notion.site/Retail-Sales-Optimization-Inventory-Management-Analysis-29def23c9d9b80bfab15f19f68d47146
+
+-  Business Process Improvement Case Study <strong> Customer Onboarding Process Transformation </strong>
+- https://sunset-metacarpal-a43.notion.site/BUSINESS-PROCESS-IMPROVEMENT-CASE-STUDY-29cef23c9d9b80408987d8a6946302ea
+
+
 ### <strong> To Do List </strong> 
 - Frontend <strong> (React, Next. Js) </strong>
   - https://github.com/360Appz/todolist-react/tree/release
@@ -48,6 +58,10 @@ To learn more about different type of system designs and what's under the hood. 
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
 </p>
 
 
