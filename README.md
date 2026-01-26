@@ -15,6 +15,7 @@ Business-focused professional with proven ability to translate complex business 
 - https://sunset-metacarpal-a43.notion.site/BUSINESS-PROCESS-IMPROVEMENT-CASE-STUDY-29cef23c9d9b80408987d8a6946302ea
 
 <br/>
+
 ### <strong> To Do List </strong> 
 - Frontend <strong> (React, Next. Js) </strong>
   - https://github.com/360Appz/todolist-react/tree/release
