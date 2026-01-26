@@ -8,11 +8,11 @@ Business-focused professional with proven ability to translate complex business 
 -  Product Feature Analysis & Roadmap:  <strong> E-COMMERCE CHECKOUT FLOW OPTIMIZATION </strong> <br/>
    https://sunset-metacarpal-a43.notion.site/E-COMMERCE-CHECKOUT-FLOW-OPTIMIZATION-295ef23c9d9b80008150fb39f0fc7292
 
--  Data Analytics:  <strong> Retail Sales Optimization & Inventory Management Analysis </strong>
-- https://sunset-metacarpal-a43.notion.site/Retail-Sales-Optimization-Inventory-Management-Analysis-29def23c9d9b80bfab15f19f68d47146
+-  Data Analytics:  <strong> Retail Sales Optimization & Inventory Management Analysis </strong> <br/>
+   https://sunset-metacarpal-a43.notion.site/Retail-Sales-Optimization-Inventory-Management-Analysis-29def23c9d9b80bfab15f19f68d47146
 
--  Business Process Improvement Case Study:  <strong> Customer Onboarding Process Transformation </strong>
-- https://sunset-metacarpal-a43.notion.site/BUSINESS-PROCESS-IMPROVEMENT-CASE-STUDY-29cef23c9d9b80408987d8a6946302ea
+-  Business Process Improvement Case Study:  <strong> Customer Onboarding Process Transformation </strong> <br/>
+   https://sunset-metacarpal-a43.notion.site/BUSINESS-PROCESS-IMPROVEMENT-CASE-STUDY-29cef23c9d9b80408987d8a6946302ea
 
 <br/>
 
