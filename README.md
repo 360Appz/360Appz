@@ -70,10 +70,6 @@ To learn more about different type of system designs and what's under the hood. 
 
 <br/>
 
-<h1 align="left">Connect with me:</h1>
-<p align="left" style="display:inline;">
-<a href="https://www.linkedin.com/in/joelyeow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joelyeow/" height="30" width="40" /></a>
-
 </p>
 
 
