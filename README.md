@@ -4,14 +4,14 @@
 Business-focused professional with proven ability to translate complex business needs into actionable technical solutions. Skilled in stakeholder engagement, requirements analysis, and Agile delivery. Leverages data-driven insights to optimize processes, enhance operational efficiency, and drive measurable business value across cross-functional teams  </h3>
 
 # Work
-### <strong> Business Analyst </strong> 
--  Product Feature Analysis & Roadmap <strong> E-COMMERCE CHECKOUT FLOW OPTIMIZATION </strong>
+### <strong> Business Analysis </strong> 
+-  Product Feature Analysis & Roadmap:  <strong> E-COMMERCE CHECKOUT FLOW OPTIMIZATION </strong>
 - https://sunset-metacarpal-a43.notion.site/E-COMMERCE-CHECKOUT-FLOW-OPTIMIZATION-295ef23c9d9b80008150fb39f0fc7292
 
--  Data Analytics <strong> Retail Sales Optimization & Inventory Management Analysis </strong>
+-  Data Analytics:  <strong> Retail Sales Optimization & Inventory Management Analysis </strong>
 - https://sunset-metacarpal-a43.notion.site/Retail-Sales-Optimization-Inventory-Management-Analysis-29def23c9d9b80bfab15f19f68d47146
 
--  Business Process Improvement Case Study <strong> Customer Onboarding Process Transformation </strong>
+-  Business Process Improvement Case Study:  <strong> Customer Onboarding Process Transformation </strong>
 - https://sunset-metacarpal-a43.notion.site/BUSINESS-PROCESS-IMPROVEMENT-CASE-STUDY-29cef23c9d9b80408987d8a6946302ea
 
 
