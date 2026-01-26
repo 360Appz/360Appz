@@ -6,7 +6,7 @@ Business-focused professional with proven ability to translate complex business 
 # Work
 ### <strong> Business Analysis </strong> 
 -  Product Feature Analysis & Roadmap:  <strong> E-COMMERCE CHECKOUT FLOW OPTIMIZATION </strong>
-- https://sunset-metacarpal-a43.notion.site/E-COMMERCE-CHECKOUT-FLOW-OPTIMIZATION-295ef23c9d9b80008150fb39f0fc7292
+   https://sunset-metacarpal-a43.notion.site/E-COMMERCE-CHECKOUT-FLOW-OPTIMIZATION-295ef23c9d9b80008150fb39f0fc7292
 
 -  Data Analytics:  <strong> Retail Sales Optimization & Inventory Management Analysis </strong>
 - https://sunset-metacarpal-a43.notion.site/Retail-Sales-Optimization-Inventory-Management-Analysis-29def23c9d9b80bfab15f19f68d47146
