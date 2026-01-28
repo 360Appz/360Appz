@@ -33,8 +33,8 @@ Business-focused professional with proven ability to translate complex business 
 ### <strong> System Design </strong>
 To learn more about different type of system designs and what's under the hood. Developed in Spring Boot
 
-<strong> Payment-Gateway-Architecture-Case-Study </strong>
-- https://github.com/360Appz/Payment-Gateway-Architecture-Case-Study/tree/main
+- <strong> Payment Gateway Architecture Case Study </strong>
+   - https://github.com/360Appz/Payment-Gateway-Architecture-Case-Study/tree/main
   
 - <strong> Search Engine </strong>
   - https://gitlab.com/system-design-element-of-java/system-design-search-engine/-/tree/dev?ref_type=heads
