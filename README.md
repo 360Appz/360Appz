@@ -23,6 +23,9 @@ Business-focused professional with proven ability to translate complex business 
 - <strong> Financial Services </strong> : SALESFORCE WEALTHHUB360 - WEALTH MANAGEMENT PLATFORM <br/>
   https://sunset-metacarpal-a43.notion.site/WEALTHHUB360-WEALTH-MANAGEMENT-PLATFORM-2f6ef23c9d9b8001b0e8c9ec5ebcde86
 
+- <strong> Retail & Distribution </strong> : MICROSOFT DYNAMICS 365 BUSINESS CENTRAL IMPLEMENTATION <br/>
+  https://github.com/360Appz/Microsoft-Dynamics-365-Business-Central-Implementation/tree/main
+
 <br/>
 
 ### <strong> To Do List App </strong> 
