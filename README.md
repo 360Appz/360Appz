@@ -17,13 +17,13 @@ Business-focused professional with proven ability to translate complex business 
 <br/>
 
 ### <strong> ERP (Digital Transformation) </strong> 
-- <strong> Manufacturing </strong> : SAP S/4HANA IMPLEMENTATION PORTFOLIO PROJECT  <br/>
+- <strong> Manufacturing </strong> : SAP S/4HANA IMPLEMENTATION PORTFOLIO PROJECT <strong> (SAP) </strong>  <br/>
   https://sunset-metacarpal-a43.notion.site/SAP-S-4HANA-IMPLEMENTATION-PORTFOLIO-PROJECT-2f6ef23c9d9b8046b4eceb16fb49de9e
   
-- <strong> Financial Services </strong> : SALESFORCE WEALTHHUB360 - WEALTH MANAGEMENT PLATFORM <br/>
+- <strong> Financial Services </strong> : SALESFORCE WEALTHHUB360 - WEALTH MANAGEMENT PLATFORM <strong> (SALESFORCE) </strong> <br/>
   https://sunset-metacarpal-a43.notion.site/WEALTHHUB360-WEALTH-MANAGEMENT-PLATFORM-2f6ef23c9d9b8001b0e8c9ec5ebcde86
 
-- <strong> Retail & Distribution </strong> : MICROSOFT DYNAMICS 365 BUSINESS CENTRAL IMPLEMENTATION <br/>
+- <strong> Retail & Distribution </strong> : MICROSOFT DYNAMICS 365 BUSINESS CENTRAL IMPLEMENTATION <strong> (MICROSOFT) </strong> <br/>
   https://github.com/360Appz/Microsoft-Dynamics-365-Business-Central-Implementation/tree/main
 
 <br/>
