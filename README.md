@@ -28,6 +28,11 @@ Business-focused professional with proven ability to translate complex business 
 
 <br/>
 
+### UI/UX
+- <strong> Event Landing Page </strong> : https://360appz.github.io/event-landing-page-mockup/
+
+<br/>
+
 ### <strong> To Do List App </strong> 
 - Frontend <strong> (React, Next. Js) </strong>
   - https://github.com/360Appz/todolist-react/tree/release
