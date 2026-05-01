@@ -31,6 +31,7 @@ Business-focused professional with proven ability to translate complex business 
 ### UI/UX
 - <strong> Microsoft Dynamics 365 ERP - Banking & Finance </strong> : https://360appz.github.io/bank-finance-dynamics-erp-mockup/
 - <strong> Event Landing Page </strong> : https://360appz.github.io/event-landing-page-mockup/
+- <strong> Presence Conference </strong> : https://360appz.github.io/presence-conference-mockup/
 
 <br/>
 
